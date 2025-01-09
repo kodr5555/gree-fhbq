@@ -44,7 +44,7 @@
      substitutions:
        device_name: "GREE FHBQ-3,5-D"
      ```
-     Полный файл конфигурации можно найти в файле `gree-fhbq-35.yaml`.
+     Полный файл конфигурации можно найти в файле [gree-fdbq-35.yaml](./gree-fhbq-35.yaml).
 
 3. **Загрузка прошивки**:
    - Перенесите YAML-файл на ESP32 через ESPHome.
