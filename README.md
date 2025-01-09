@@ -60,4 +60,5 @@
 - Выбор режима работы вентилятора (Supply, Exhaust и т.д.)
 - Уровень влажности в помещении.
 
-![Home Assistant UI](Home-Assistant-Iface.png)
+## Особая благодарность
+"ОФИЦИАЛЬНЫЙ ДИСТРИБЬЮТОР GREE В УКРАИНЕ" [https://gree.com.ua](https://gree.com.ua/)
